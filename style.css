@@ -1,0 +1,27 @@
+body{
+	border-color: 20px;
+	background-color: #7495E8;
+}
+
+footer {
+	margin: 2px;
+	background-color: white;
+	background-position: bottom;
+	position: fixed;
+	height: 1280px;
+	width: 1830px;
+}
+
+.photo{
+	margin: 50px;
+	background-position: center;
+	position: static;
+}
+
+.nom {
+	text-align: center;
+}
+
+.info {
+	text-align: center;
+}
